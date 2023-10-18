@@ -1,8 +1,8 @@
 <style>
 .custom-hr {
     border: none;
-    border-top: 3px solid #042F57; /* Màu đỏ, thay đổi mã màu tùy ý */
-    margin: 10px 0; /* Điều chỉnh khoảng cách trên và dưới đoạn ngang */
+    border-top: 3px solid #042F57;
+    margin: 10px 0;
 }
 </style>
 
