@@ -53,3 +53,26 @@
 ---
 
 <h2 align="left" style="color: #042F57;">CAREER DIRECTION</h2>
+<p><strong>The competencies I aim to develop over the next 2 years include:</strong></p>
+<ul>
+    <li>Enhance the ability to analyze and design software products, ensuring they meet the maximum needs and desires of users.</li>
+    <li>Develop knowledge of the software development lifecycle to engage in all stages of the development process proficiently.</li>
+    <li>Utilize advanced and innovative technologies to optimize products and ensure competitiveness within the industry.</li>
+    <li>Gain a deeper understanding of the specific challenges and needs of users, thus ensuring that the software product effectively meets business goals.</li>
+    <li>Ensure a clear understanding of the Software Engineering lifecycle and best practices in software project management.</li>
+    <li>Improve English language communication skills to work and exchange information effectively in an international environment.</li>
+</ul>
+
+---
+
+<h2 align="left" style="color: #042F57;">Specialized Skills</h2>
+
+<ul>
+    <li>Language: HTML, CSS, Javascript, Php, Python, C.</li>
+    <li>Frameworks: SCSS, React, React Native, Node, FastAPI, Tailwind.</li>
+    <li>Database: SQL Server, MySql, MongoDb.</li>
+    <li>Tools: Git, Visual Studio Code, neatBean, Visual Studio, IntelliJ, Android studio, Figma.</li>
+    <li>Version control systems: Github, bitbucket.</li>
+    <li>Open source: Wordpress, Open Edx.</li>
+    <li>Use basic linux commands.</li>
+</ul>
