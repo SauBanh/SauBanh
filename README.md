@@ -23,7 +23,7 @@
             <div style="width: 50%;">
             <p align="left" style="font-size: 12px; line-height: 1.3">👦 Male</p>
             <p align="left" style="font-size: 12px; line-height: 1.3">📧 <a href="mailto:ngtuananh.developer@gmail.com">ngtuananh.developer@gmail.com</a></p>
-            <p align="left" style="font-size: 12px; line-height: 1.3">🌐 <a href="facebook.com/ng.tuan.anh.05.06.2001">Nguyễn Tuấn Anh</a></p>
+            <p align="left" style="font-size: 12px; line-height: 1.3">🌐 <a href="facebook.com/ng.tuan.anh.05.06">Nguyễn Tuấn Anh</a></p>
             </div>
         </div>
     </div>
