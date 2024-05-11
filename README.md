@@ -36,7 +36,7 @@
 
 <h2 align="center" style="color: #042F57; ">🙎‍♂️ Personal information</h2>
 <p align="center" style="font-size: 12px; line-height: 1.3">🎂 05 - 06 - 2001 | 📞  0962147976 | 🏡  District 12, Ho Chi Minh City | 👨 Male</p> 
-<p align="center" style="font-size: 12px; line-height: 1.3">📧 <a href="mailto:ngtuananh.developer@gmail.com">ngtuananh.developer@gmail.com</a> | 🌐 <a href="facebook.com/ng.tuan.anh.05.06.2001">facebook.com/ng.tuan.anh.05.06.2001</a></p>
+<p align="center" style="font-size: 12px; line-height: 1.3">📧 <a href="mailto:ngtuananh.developer@gmail.com">ngtuananh.developer@gmail.com</a> | 🌐 <a href="facebook.com/ng.tuan.anh.05.06">facebook.com/ng.tuan.anh.05.06</a></p>
 
 ---
 
